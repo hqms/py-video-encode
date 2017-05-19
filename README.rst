@@ -1,6 +1,6 @@
-PyEncode
+py-video-encode
 ========
 
-PyEncode is a ffmpeg wrapper and provided as a python module
+py-video-encode is a ffmpeg wrapper and provided as a python module
 
 
